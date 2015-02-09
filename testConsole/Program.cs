@@ -12,6 +12,8 @@ namespace testConsole
             Console.Write("Hola");
             Console.Write(" Diego");
             Console.WriteLine("Probando...");
+            Console.WriteLine("Probando2...");
+
           
         }
     }
